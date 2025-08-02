@@ -46,7 +46,9 @@ Email: ${userInput.email}`;
     const mailtoLink = `mailto:ramanjaneyulu476@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     
     // Open email client
-    window.location.href = mailtoLink;
+    if (typeof window !== 'undefined') {
+      window.location.href = mailtoLink;
+    }
     
     // Show success message and reset form
     toast.success("Email client opened! Please send the email from your default email application.");
