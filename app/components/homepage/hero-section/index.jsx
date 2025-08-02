@@ -112,12 +112,12 @@ function HeroSection() {
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">experience:</span>
-                <span className="text-orange-400">'10+ years'</span>
+                <span className="text-orange-400">&apos;10+ years&apos;</span>
                 <span className="text-gray-400">,</span>
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">certifications:</span>
-                <span className="text-orange-400">['CKA', 'CKAD', 'CKS', 'AZ-104', 'AZ-400']</span>
+                <span className="text-orange-400">[&apos;CKA&apos;, &apos;CKAD&apos;, &apos;CKS&apos;, &apos;AZ-104&apos;, &apos;AZ-400&apos;]</span>
                 <span className="text-gray-400">,</span>
               </div>
               <div>

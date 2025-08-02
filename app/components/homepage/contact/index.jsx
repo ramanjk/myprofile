@@ -26,12 +26,12 @@ function ContactSection() {
         </h2>
         <div className="max-w-3xl mx-auto">
           <p className="text-gray-300 text-lg leading-relaxed mb-4">
-            If you have any questions or concerns, please don't hesitate to contact me. 
+            If you have any questions or concerns, please don&apos;t hesitate to contact me. 
             I am open to any work opportunities that align with my skills and interests.
           </p>
           <p className="text-gray-400 text-base">
             Feel free to reach out for DevOps consulting, cloud infrastructure projects, 
-            or collaboration opportunities. I'll get back to you as soon as possible.
+            or collaboration opportunities. I&apos;ll get back to you as soon as possible.
           </p>
         </div>
       </div>
